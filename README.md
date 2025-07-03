@@ -28,5 +28,5 @@ An end-to-end web application that extracts text from documents/images and trans
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/OCR-Translation.git
+   git clone https://github.com/Mohamed-S0bhy/OCR-Translation.git
    cd OCR-Translation
